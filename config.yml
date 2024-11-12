@@ -1,0 +1,5 @@
+title: "Social Media Webapp"
+description: "Eine einfache Social Media Webapp"
+baseurl: ""
+url: "https://<dein-benutzername>.github.io"
+theme: minima
